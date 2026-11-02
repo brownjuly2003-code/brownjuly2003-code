@@ -1,6 +1,6 @@
 # Юлия Едомских — Senior Data Analyst / Data Engineer
 
-Аналитика и инженерия данных, 22+ года. **DWH/BI/SQL · ETL/Airflow · LLM/RAG/NLP.**
+Аналитика и инженерия данных. **DWH/BI/SQL · ETL/Airflow · LLM/RAG/NLP.**
 Делаю продукты, в которых результат **измерен**, а не обещан.
 
 📍 Королёв (МО) · гибрид / удалёнка · English C1
