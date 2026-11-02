@@ -1,10 +1,7 @@
-# Юлия Едомских — Senior Data Analyst / Data Engineer
+# Аналитика и инженерия данных
 
-Аналитика и инженерия данных. **DWH/BI/SQL · ETL/Airflow · LLM/RAG/NLP.**
+**DWH/BI/SQL · ETL/Airflow · LLM/RAG/NLP.**
 Делаю продукты, в которых результат **измерен**, а не обещан.
-
-📍 Королёв (МО) · гибрид / удалёнка · English C1
-✉️ uedomskikh@gmail.com · ✈️ Telegram [@JuliaPhe](https://t.me/JuliaPhe)
 
 ### 📊 Портфолио
 **[proof-pack — измеренные бенчмарки продуктов](https://brownjuly2003-code.github.io/proof-pack/)** (метрики помечены: live · oracle · simulation)
